@@ -35,5 +35,5 @@ Built on the **Pi Network**, Hope accepts support through:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/hope-app.git
+git clone https://github.com/Mrwain-Organization/hope.xyz.git
 cd hope-app
