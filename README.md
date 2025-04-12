@@ -35,5 +35,25 @@ Built on the **Pi Network**, Hope accepts support through:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/Mrwain-Organization/hope.xyz.git
+git clone https://github.com/yourusername/hope-app.git
 cd hope-app
+```
+
+Open `index.html` in your browser to begin.
+
+---
+
+## ✨ Future Plans
+
+- [x] MVP: Verse + Mood + Calm Prompts
+- [ ] Pi Wallet integration for donations
+- [ ] Add multilingual verse support
+- [ ] Launch on Vercel or Netlify
+
+---
+
+## 🤍 Why Hope?
+
+**Hope** was created to provide comfort, daily peace, and spiritual strength in difficult times. It’s also part of a mission to fund decentralized apps like **TruthWeb** and **Cloudy**.
+
+You can be part of this journey. Pray. Breathe. Share. Support with Pi 💜
